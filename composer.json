@@ -1,0 +1,16 @@
+{
+    "name": "home/php",
+    "autoload": {
+        "psr-4": {
+            "Home\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "flowermaiden",
+            "email": "predictormagnolia@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {  "psr-4": {    "App\\": "src/models"  }}
+}
