@@ -7,7 +7,7 @@ function getCircle(string $diameter){
 for($i=0;$i<10;$i++){
     echo getCircle(50);
 }
-
+ 
 //4
 $binaryNumber = "110110";
 $hexadecimalNumber = dechex(bindec($binaryNumber));
